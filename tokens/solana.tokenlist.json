@@ -1,0 +1,15 @@
+[
+  {
+    "chainId": 101,
+    "address": "SkYoLqTHTSjjqfr9JsSuLAcPpJLKGBH7cT1jCZ8FRKb",
+    "symbol": "REWIND",
+    "name": "BLOCKBUSTER",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/clintscode/token-list/main/rewind_logo.png",
+    "tags": ["nostalgia", "memecoin", "solana"],
+    "extensions": {
+      "website": "https://www.blockbusters.site",
+      "twitter": "https://x.com/____BlockBuster"
+    }
+  }
+]
